@@ -19,14 +19,14 @@ Output: 0
 ###### 解题思路
 ```
 class Solution(object):
-def findMin(self, nums):
+  def findMin(self, nums):
 
-i, j = 0, len(nums) - 1
-while i < j:
-m = i + (j - i) / 2
-if nums[m] > nums[j]:
-i = m + 1
-else:
-j = m
-return nums[i]
+    i, j = 0, len(nums) - 1
+    while i < j:
+      m = i + (j - i) / 2
+      if nums[m] > nums[j]:
+        i = m + 1
+      else:
+        j = m
+    return nums[i]
 ```
