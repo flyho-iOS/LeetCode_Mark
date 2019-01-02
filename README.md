@@ -1,5 +1,7 @@
 # LeetCode算法题记
 
+![](https://img.shields.io/badge/source-leetcode-blue.svg) ![](https://img.shields.io/badge/language-Python-yellowgreen.svg) ![](https://img.shields.io/badge/judgement-passing-brightgreen.svg) 
+
 ## 简介
 LeetCode中的算法题解法总结
 
@@ -7,6 +9,8 @@ LeetCode中的算法题解法总结
 
 ### 数组
 [153. Find Minimum in Rotated Sorted Array](https://github.com/flyho-iOS/LeetCode_Mark/tree/master/Array/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array)
+
+[442. Find All Duplicates in an Array](https://github.com/flyho-iOS/LeetCode_Mark/tree/master/Array/442.%20Find%20All%20Duplicates%20in%20an%20Array)
 
 ### 动态规划
 [121. Best Time to Buy and Sell Stock](https://github.com/flyho-iOS/LeetCode_Mark/tree/master/Dynamic_Programming/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock)
