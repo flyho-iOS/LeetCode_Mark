@@ -10,6 +10,10 @@ LeetCode中的算法题解法总结
 
 [206. 反转链表](https://github.com/flyho-iOS/LeetCode_Mark/tree/master/Tencent/206.%20%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8)
 
+[21. 合并两个有序链表](https://github.com/flyho-iOS/LeetCode_Mark/tree/master/Tencent/21.%20%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8)
+
+[235. 二叉搜索树的最近公共祖先](https://github.com/flyho-iOS/LeetCode_Mark/tree/master/Tencent/235.%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88)
+
 ## 分类
 
 ### 数组
