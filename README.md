@@ -1,4 +1,4 @@
-# LeetCode算法题记 (持续更新)
+# LeetCode算法题 (持续更新)
 
 ![](https://img.shields.io/badge/source-leetcode-blue.svg) ![](https://img.shields.io/badge/language-Python-yellowgreen.svg) ![](https://img.shields.io/badge/judgement-passing-brightgreen.svg) 
 
