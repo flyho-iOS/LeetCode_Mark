@@ -30,6 +30,8 @@ LeetCode中的算法题解法总结
 
 [160. 相交链表](https://github.com/flyho-iOS/LeetCode_Mark/tree/master/Tencent/160.%20%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8)
 
+[14. 最长公共前缀](https://github.com/flyho-iOS/LeetCode_Mark/tree/master/Tencent/14.%20%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%89%8D%E7%BC%80)
+
 ## 分类
 
 ### 数组
