@@ -26,6 +26,10 @@ LeetCode中的算法题解法总结
 
 [70. 爬楼梯](https://github.com/flyho-iOS/LeetCode_Mark/tree/master/Tencent/70.%20%E7%88%AC%E6%A5%BC%E6%A2%AF)
 
+[141. 环形链表](https://github.com/flyho-iOS/LeetCode_Mark/tree/master/Tencent/141.%20%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8)
+
+[160. 相交链表](https://github.com/flyho-iOS/LeetCode_Mark/tree/master/Tencent/160.%20%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8)
+
 ## 分类
 
 ### 数组
